@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.child1 {
+    display: inline-block;
+}
+.child2 {
+    display: inline-block;
+}
+.child3 {
+    display: inline-block;
+}
+.child4 {
+    display: inline-block;
+}
+h2 {
+    font-size: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+.home {
+    margin-right: 30px;
+    color: orangered;
+}
+.subscribe {
+    margin-left: 30px;
+    color: green;
+}
+.recipes {
+    color: blue;
+}
